@@ -24,3 +24,7 @@ teardown
 template
     [Template]    Log
     Log    je suis un test avec template
+
+tags
+    [Tags]    Robot
+    Log    je suis un test avec tags
